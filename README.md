@@ -39,10 +39,22 @@ system testing, and CI/CD automation.
 ## 🚀 Featured Projects
 
 ### 📋 OurTodo
-Collaborative task management for families and teams.
+A shared task board for things that get lost in LINE conversations.
 
-[Source Code](https://github.com/gitmaruneko/ourtodo) |
-[Interactive Demo](https://gitmaruneko.github.io/ourtodo-demo/)
+**The Problem**  
+Tasks and requests shared in LINE groups can get buried in the conversation. There’s no single, consistent place to check what needs to be done.
+
+**My Contribution**  
+Took the project from requirements through design and implementation, using AI tools as development collaborators.
+
+**Try It**  
+Explore the interactive demo to see how tasks are organized.
+
+[Source Code](https://github.com/gitmaruneko/ourtodo) · [Interactive Demo](https://gitmaruneko.github.io/ourtodo-demo/)
+
+*The demo is a standalone preview; LINE login and multi-user synchronization are not available.*
+
+---
 
 ### 🌱 YuBan
 A parenting knowledge and tools platform.
