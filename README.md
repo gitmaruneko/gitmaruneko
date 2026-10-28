@@ -38,17 +38,10 @@ system testing, and CI/CD automation.
 
 ## 🚀 Featured Projects
 
-### 📋 OurTodo
-A shared task board for things that get lost in LINE conversations.
+### 📋 OurTodo [![ourtodo source code](https://img.shields.io/badge/Source_Code-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/gitmaruneko/ourtodo) [![ourtodo Interactive Demo](https://img.shields.io/badge/Interactive_Demo-9DFF00?style=flat-square)](https://gitmaruneko.github.io/ourtodo-demo/)
 
 **The Problem**  
-Tasks and requests shared in LINE groups can get buried in the conversation. There’s no single, consistent place to check what needs to be done.
-
-**Try It**  
-Explore the interactive demo to see how tasks are organized.
-
-[![ourtodo source code](https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmaruneko/ourtodo)
-[![ourtodo Interactive Demo](https://img.shields.io/badge/Interactive_Demo-9DFF00?style=for-the-badge)](https://gitmaruneko.github.io/ourtodo-demo/)
+Parents often need resources to support raising their children, but finding trustworthy information in one easy-to-navigate place can be difficult.
 
 *The demo is a standalone preview; LINE login and multi-user synchronization are not available.*
 
