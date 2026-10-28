@@ -47,7 +47,8 @@ Tasks and requests shared in LINE groups can get buried in the conversation. The
 **Try It**  
 Explore the interactive demo to see how tasks are organized.
 
-[Source Code](https://github.com/gitmaruneko/ourtodo) · [Interactive Demo](https://gitmaruneko.github.io/ourtodo-demo/)
+[![ourtodo source code](https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmaruneko/ourtodo)
+[![ourtodo Interactive Demo](https://img.shields.io/badge/Interactive_Demo-9DFF00?style=for-the-badge)](https://gitmaruneko.github.io/ourtodo-demo/)
 
 *The demo is a standalone preview; LINE login and multi-user synchronization are not available.*
 
@@ -62,7 +63,8 @@ Parents often need resources to support raising their children, but finding trus
 **Try It**  
 Visit the website to explore parenting resources.
 
-[Source Code](https://github.com/gitmaruneko/yuban) · [Website](https://gitmaruneko.github.io/yuban/index.html#explore)
+[![yuban source code](https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmaruneko/yuban)
+[![yuban Website](https://img.shields.io/badge/Website-9DFF00?style=for-the-badge)](https://gitmaruneko.github.io/yuban/index.html#explore)
 
 ## 🤝 Development Approach
 
