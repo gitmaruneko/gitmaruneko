@@ -57,9 +57,18 @@ Explore the interactive demo to see how tasks are organized.
 ---
 
 ### 🌱 YuBan
-A parenting knowledge and tools platform.
+A parenting resource platform designed to make useful information easier to find.
 
-[Repository](https://github.com/gitmaruneko/yuban)
+**The Problem**  
+Parents often need resources to support raising their children, but finding trustworthy information in one easy-to-navigate place can be difficult.
+
+**My Contribution**  
+Took the project from requirements through design and implementation, using AI tools as development collaborators.
+
+**Try It**  
+Visit the learning materials page to explore the resources.
+
+[Source Code](https://github.com/gitmaruneko/yuban) · [Learning Materials](https://gitmaruneko.github.io/yuban/learning-materials/index.html)
 
 ## 🤝 Development Approach
 
