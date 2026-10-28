@@ -59,7 +59,7 @@ I use AI tools to assist with implementation, testing, and documentation, while 
 
 <div align="center">
 
-![Maru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitmaruneko&show_icons=true&bg_color=20162F&title_color=A78BFA&text_color=F3EFFA&icon_color=9DFF00&border_color=7C3AED&ring_color=9DFF00)
+![Maru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitmaruneko&show_icons=true&hide_rank=true&bg_color=20162F&title_color=A78BFA&text_color=F3EFFA&icon_color=9DFF00&border_color=7C3AED&ring_color=9DFF00)
 
 </div>
 
