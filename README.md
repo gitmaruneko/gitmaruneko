@@ -41,7 +41,7 @@ system testing, and CI/CD automation.
 ### 📋 OurTodo [![ourtodo source code](https://img.shields.io/badge/Source_Code-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/gitmaruneko/ourtodo) [![ourtodo Interactive Demo](https://img.shields.io/badge/Interactive_Demo-9DFF00?style=flat-square)](https://gitmaruneko.github.io/ourtodo-demo/)
 
 **The Problem**  
-Parents often need resources to support raising their children, but finding trustworthy information in one easy-to-navigate place can be difficult.
+Tasks and requests shared in LINE groups can get buried in the conversation. There’s no single, consistent place to check what needs to be done.
 
 *The demo is a standalone preview; LINE login and multi-user synchronization are not available.*
 
