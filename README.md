@@ -44,9 +44,6 @@ A shared task board for things that get lost in LINE conversations.
 **The Problem**  
 Tasks and requests shared in LINE groups can get buried in the conversation. There’s no single, consistent place to check what needs to be done.
 
-**My Contribution**  
-Took the project from requirements through design and implementation, using AI tools as development collaborators.
-
 **Try It**  
 Explore the interactive demo to see how tasks are organized.
 
@@ -62,13 +59,10 @@ A parenting resource platform designed to make useful information easier to find
 **The Problem**  
 Parents often need resources to support raising their children, but finding trustworthy information in one easy-to-navigate place can be difficult.
 
-**My Contribution**  
-Took the project from requirements through design and implementation, using AI tools as development collaborators.
-
 **Try It**  
-Visit the learning materials page to explore the resources.
+Visit the website to explore parenting resources.
 
-[Source Code](https://github.com/gitmaruneko/yuban) · [Learning Materials](https://gitmaruneko.github.io/yuban/learning-materials/index.html)
+[Source Code](https://github.com/gitmaruneko/yuban) · [Website](https://gitmaruneko.github.io/yuban/index.html#explore)
 
 ## 🤝 Development Approach
 
