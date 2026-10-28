@@ -47,17 +47,10 @@ Parents often need resources to support raising their children, but finding trus
 
 ---
 
-### 🌱 YuBan
-A parenting resource platform designed to make useful information easier to find.
+### 🌱 YuBan [![yuban source code](https://img.shields.io/badge/Source_Code-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/gitmaruneko/yuban) [![yuban Website](https://img.shields.io/badge/Website-9DFF00?style=flat-square)](https://gitmaruneko.github.io/yuban/index.html#explore)
 
 **The Problem**  
 Parents often need resources to support raising their children, but finding trustworthy information in one easy-to-navigate place can be difficult.
-
-**Try It**  
-Visit the website to explore parenting resources.
-
-[![yuban source code](https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmaruneko/yuban)
-[![yuban Website](https://img.shields.io/badge/Website-9DFF00?style=for-the-badge)](https://gitmaruneko.github.io/yuban/index.html#explore)
 
 ## 🤝 Development Approach
 
