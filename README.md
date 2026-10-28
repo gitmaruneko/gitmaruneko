@@ -3,16 +3,16 @@
 
 # Hi 👋, I'm Maru
 
-### Firmware Engineer | Test Automation | AI-Assisted Development
+### Firmware Engineer · Test Automation · CI/CD
 
 ![Firmware](https://img.shields.io/badge/Firmware-7C3AED?style=flat-square&labelColor=20162F)
 ![Test Automation](https://img.shields.io/badge/Test_Automation-9DFF00?style=flat-square&labelColor=20162F)
-![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-A78BFA?style=flat-square&labelColor=20162F)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A78BFA?style=flat-square&labelColor=20162F)
 
-**No Magic, Just Engineering — Augmented by AI.**
+**No Magic, Just Engineering.**
 
-Building useful software through AI collaboration,
-automation, and engineering discipline.
+Building reliable products through firmware development,
+test automation, and engineering discipline.
 
 </div>
 
@@ -20,14 +20,14 @@ automation, and engineering discipline.
 
 ## 👩‍💻 About Me
 
-I'm a firmware engineer exploring the intersection
-of test engineering, AI agents, and software development.
+I'm a firmware engineer with experience in product development,
+system testing, and CI/CD automation.
 
 - 🔧 Background in firmware and system testing
-- 🤖 Building applications with AI coding agents
-- 🧪 Interested in test automation and AI evaluation
+- ⚙️ Designing CI/CD workflows and automation systems
+- 🧪 Focused on test automation and software quality
 - 🚀 Turning everyday problems into working products
-- 🌱 Learning AI engineering and open-source development
+- 🌱 Continuing to learn and explore open-source development
 
 ## 🔧 Engineering Highlights
 
@@ -35,18 +35,6 @@ of test engineering, AI agents, and software development.
 - Designed and implemented CI/CD workflows and automated build-to-test reporting, including email-triggered test services.
 - Worked on tablets, robotic vacuum cleaners, set-top boxes, TVs, and Windows Mobile devices, including sensor drivers, TV interfaces, and Android services.
 - Shared testing and automation knowledge through training and workshops, supporting Agile development and testing practices.
-
-## 🤝 How I Build with AI
-
-I use AI as a development collaborator, combining
-human judgment with AI-assisted implementation.
-
-**My workflow:**
-
-`Problem → Requirements → Architecture → AI Collaboration → Testing → Delivery`
-
-My focus is on building reliable, maintainable,
-and useful software.
 
 ## 🚀 Featured Projects
 
@@ -56,16 +44,14 @@ Collaborative task management for families and teams.
 [Source Code](https://github.com/gitmaruneko/ourtodo) |
 [Interactive Demo](https://gitmaruneko.github.io/ourtodo-demo/)
 
-### 🤖 AI Test Engineering Lab
-Exploring AI agents, Claude APIs, MCP, and
-AI-powered test engineering.
-
-[Repository](https://github.com/gitmaruneko/ai-test-engineering-lab)
-
 ### 🌱 YuBan
 A parenting knowledge and tools platform.
 
 [Repository](https://github.com/gitmaruneko/yuban)
+
+## 🤝 Development Approach
+
+I use AI tools to assist with implementation, testing, and documentation, while taking responsibility for engineering decisions and validating the results.
 
 ---
 
@@ -81,6 +67,6 @@ A parenting knowledge and tools platform.
 
 <div align="center">
 
-**Build with AI. Think like an engineer.**
+**Build useful things. Make them reliable.**
 
 </div>
